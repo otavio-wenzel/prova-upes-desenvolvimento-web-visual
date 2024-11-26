@@ -1,0 +1,2 @@
+GET http://localhost:5224/individuos
+Accept: application/json
